@@ -23,6 +23,30 @@
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20181029225910.1"><vh>week 1</vh>
+<v t="leo.20181029225910.2"><vh>week1</vh></v>
+</v>
+</v>
+<v t="leo.20181029221619.1"><vh>week 2</vh>
+<v t="leo.20181029221619.2"><vh>week2</vh></v>
+</v>
+<v t="leo.20181029230954.1"><vh>week 3</vh>
+<v t="leo.20181029230954.2"><vh>week3</vh></v>
+</v>
+<v t="leo.20181029231101.1"><vh>week 4</vh>
+<v t="leo.20181029231101.2"><vh>week4</vh></v>
+</v>
+<v t="leo.20181029232347.1"><vh>week 5</vh>
+<v t="leo.20181029232347.2"><vh>week5</vh></v>
+</v>
+<v t="leo.20181029232626.1"><vh>week 6</vh>
+<v t="leo.20181029232626.2"><vh>week6</vh></v>
+</v>
+<v t="leo.20181029233435.1"><vh>week 7</vh>
+<v t="leo.20181029233435.2"><vh>week7</vh></v>
+</v>
+<v t="leo.20181029233836.1" a="E"><vh>week 8</vh>
+<v t="leo.20181029233836.2"><vh>week8</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -126,13 +150,13 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
 
-### 虎科大機械設計工程系
+### 虎科大機械設計工程系 40623241 郭祐齊
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [郭祐齊](https://mdecadp2018.github.io/site-40623241/content/index.html)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 分組網誌](https://mdecadp2018.github.io/site-40623241/blog/)
 
 
 </t>
@@ -326,5 +350,111 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181029221619.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029221619.2"># week2
+*如何管理期中作業倉儲
+*每週進度定期更新
+*說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲
+*onshape開始接觸
+*心得:才第二周就有點快跟不上進度,第一周的東西也才剛結束完成,會在更努力,希望後面可以越聽越懂。</t>
+<t tx="leo.20181029225910.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029225910.2"># week1
+*建立一個新的40623241.github.io的倉儲並可在近端的動態網頁去做修改。
+* 心得:第一週的課程又開始一年級上學期的github，由於一上時學的沒有很透徹所以這次決定好好認真學習!另外這學期還多了一個Onshape的一個雲端繪圖軟體所以對這學期的課程開始有點興趣,希望往後的幾個禮拜可以順利學習。</t>
+<t tx="leo.20181029230954.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029230954.2"># week3
+*中秋節放假</t>
+<t tx="leo.20181029231101.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029231101.2"># week4
+*建立 Onshape 帳號 (用學校帳號)
+*閱讀 Onshape 教學文件
+*sketoh草圖
+*exrude長出
+*sweep掃掠</t>
+<t tx="leo.20181029232347.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029232347.2"># week5
+*練習更多Onshape功能
+*簡介"設計意圖" (design intent)
+*設計意圖指在設計進行前, 必須完成之專案目的與需求確認
+</t>
+<t tx="leo.20181029232626.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029232626.2"># week6
+*將倉儲中的 flaskapp.py 更新至最新版本
+*如何更新最新的CMSimfly
+*複習1-5周的東西
+</t>
+<t tx="leo.20181029233435.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029233435.2"># week7
+*因為github突然故障，找出其他代替方案
+*發生原為網路裝置與資料庫故障
+*利用Fossil SCM代替</t>
+<t tx="leo.20181029233836.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029233836.2"># week8
+*機電整合設計專案流程所需的相關套件運用與技術
+*開始找期末分組組別。</t>
 </tnodes>
 </leo_file>
