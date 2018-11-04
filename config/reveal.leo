@@ -38,6 +38,78 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
+<v t="leo.20181104190630.1"><vh>week1</vh>
+<v t="leo.20181104190630.2" a="E"><vh></vh>
+<v t="leo.20181104190630.3"><vh>01</vh></v>
+</v>
+<v t="leo.20181104190630.4" a="E"><vh></vh>
+<v t="leo.20181104190630.5"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181104190856.1"><vh>week2</vh>
+<v t="leo.20181104190856.2" a="E"><vh></vh>
+<v t="leo.20181104190856.3"><vh>01</vh></v>
+</v>
+<v t="leo.20181104190856.4" a="E"><vh></vh>
+<v t="leo.20181104190856.5"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181104191426.1"><vh>week3</vh>
+<v t="leo.20181104191426.2"><vh></vh>
+<v t="leo.20181104191426.3"><vh>01</vh></v>
+</v>
+<v t="leo.20181104191426.4" a="E"><vh></vh>
+<v t="leo.20181104191426.5"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181104190900.1"><vh>week4</vh>
+<v t="leo.20181104190900.2" a="E"><vh></vh>
+<v t="leo.20181104190900.3"><vh>01</vh></v>
+</v>
+<v t="leo.20181104190900.4" a="E"><vh></vh>
+<v t="leo.20181104190900.5"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181104190903.1"><vh>week5</vh>
+<v t="leo.20181104190903.2" a="E"><vh></vh>
+<v t="leo.20181104190903.3"><vh>01</vh></v>
+</v>
+<v t="leo.20181104190903.4" a="E"><vh></vh>
+<v t="leo.20181104190903.5"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181104190904.1"><vh>week6</vh>
+<v t="leo.20181104190904.2" a="E"><vh></vh>
+<v t="leo.20181104190904.3"><vh>01</vh></v>
+</v>
+<v t="leo.20181104190904.4" a="E"><vh></vh>
+<v t="leo.20181104190904.5"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181104190907.1"><vh>week7</vh>
+<v t="leo.20181104190907.2" a="E"><vh></vh>
+<v t="leo.20181104190907.3"><vh>01</vh></v>
+</v>
+<v t="leo.20181104190907.4" a="E"><vh></vh>
+<v t="leo.20181104190907.5"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181104190909.1"><vh>week8</vh>
+<v t="leo.20181104190909.2" a="E"><vh></vh>
+<v t="leo.20181104190909.3"><vh>01</vh></v>
+</v>
+<v t="leo.20181104190909.4" a="E"><vh></vh>
+<v t="leo.20181104190909.5"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181104190906.1" a="E"><vh>week9</vh>
+<v t="leo.20181104190906.2" a="E"><vh></vh>
+<v t="leo.20181104190906.3"><vh>01</vh></v>
+</v>
+<v t="leo.20181104190906.4" a="E"><vh></vh>
+<v t="leo.20181104190906.5"><vh>02</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -325,6 +397,320 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181104190630.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104190630.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190630.3"># week1
+</t>
+<t tx="leo.20181104190630.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190630.5">學習要點
+* 建立一個新的倉庫,名字為自己的學號.github.io,權限設為公開
+* 建立 Onshape 帳號 
+* 附錄B：導航說明檔，建立帳號，訂閱計劃
+* 介紹基本草圖
+* 說明基於草圖 (sketch-based)的建模
+* 圓柱薄殼 (cylinder shell) 
+* 針對既有草圖的模型 - 接續建立特徵
+* 介紹 4 個基本特徵 （擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）</t>
+<t tx="leo.20181104190856.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104190856.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190856.3"># week2
+</t>
+<t tx="leo.20181104190856.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190856.5">學習要點
+* 設定尺寸與約束
+* 簡介“設計意圖”
+* 繪製精確的零件
+* 草圖繪製練習
+* 自動推理
+* 建立圓角（fillets）與倒角（chamfers）
+* 使用多個草圖區域
+* 各種簡單的幾何形狀
+* 繪製時鐘模型 - 用於設計意圖教學
+* 運用與建立平面
+* 基本零件</t>
+<t tx="leo.20181104190900.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104190900.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190900.3"># week4
+</t>
+<t tx="leo.20181104190900.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190900.5">學習要點
+* 關於自由度的課程(degrees of freedom)
+* 部件配合介紹(assembly Mates)
+* 配對連接器(Mate Connectors)
+* 使用三重軸操縱零件位置(Manipulating part position with the triad)
+* 解釋配合和關係(Mates and Relations)
+* 動畫配合(Animating Mates)
+* 鏈接文檔簡介
+* 配合應用限制
+</t>
+<t tx="leo.20181104190903.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104190903.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190903.3"># week5
+</t>
+<t tx="leo.20181104190903.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190903.5">學習要點
+* 工程圖紙簡介
+* 創建圖紙視圖，尺寸標註，公差，註釋（views，dimensioning，tolerancing，notes）
+* 使用格式/模板
+* 介紹GTOL / GD＆T</t>
+<t tx="leo.20181104190904.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104190904.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190904.3"># week6
+</t>
+<t tx="leo.20181104190904.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190904.5">學習要點
+* 以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程
+* 升級最新的CMSimfly倉儲中的flaskapp.py
+* 創建團隊
+* 同步協作（即“Google Docs式協作”）
+</t>
+<t tx="leo.20181104190906.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104190906.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190906.3"># week9</t>
+<t tx="leo.20181104190906.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190906.5">學習要點
+* 期中考周</t>
+<t tx="leo.20181104190907.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104190907.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190907.3"># week7
+</t>
+<t tx="leo.20181104190907.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190907.5">學習要點
+* 添加其他模型詳細訊息
+* 版本控制
+* 上課時遇上Github網路裝置與資料庫故障，使用Fossil SCM來進行協同。</t>
+<t tx="leo.20181104190909.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104190909.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190909.3"># week8
+</t>
+<t tx="leo.20181104190909.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104190909.5">學習要點
+* 說明機電資整合設計專案流程所需的相關套件運用與技術
+* 開始找期末分組隊友。</t>
+<t tx="leo.20181104191426.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104191426.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104191426.3"># week3
+</t>
+<t tx="leo.20181104191426.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181104191426.5">* 中秋節放假
+moon festival~
 </t>
 </tnodes>
 </leo_file>
