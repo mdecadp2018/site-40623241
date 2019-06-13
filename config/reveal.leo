@@ -381,7 +381,9 @@ make.start()
 
 1.被分配到"零件尺寸分析"
 
-2.更新[分組網誌(修改期末分組網誌格式)](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g3_1/content/index.html)</t>
+2.更新[分組網誌(修改期末分組網誌格式)](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g3_1/content/index.html)
+
+</t>
 <t tx="leo.20181104190856.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -490,7 +492,7 @@ make.start()
 <t tx="leo.20181104190907.3"># week17
 
 1.
-[完成專案pd](https://mdecadp2018.github.io/site-40623241/downloads/report.pdf)
+[完成專案pdf](https://mdecadp2018.github.io/site-40623241/downloads/report.pdf)
 
 
 自評分數
