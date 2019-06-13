@@ -42,56 +42,35 @@
 <v t="leo.20181104190630.2" a="E"><vh></vh>
 <v t="leo.20181104190630.3"><vh>01</vh></v>
 </v>
-<v t="leo.20181104190630.4" a="E"><vh></vh>
-<v t="leo.20181104190630.5"><vh>02</vh></v>
-</v>
 </v>
 <v t="leo.20181104190856.1"><vh>week12</vh>
 <v t="leo.20181104190856.2" a="E"><vh></vh>
 <v t="leo.20181104190856.3"><vh>01</vh></v>
 </v>
-<v t="leo.20181104190856.4" a="E"><vh></vh>
-<v t="leo.20181104190856.5"><vh>02</vh></v>
 </v>
-</v>
-<v t="leo.20181104191426.1"><vh>week13</vh>
+<v t="leo.20181104191426.1" a="E"><vh>week13</vh>
 <v t="leo.20181104191426.2" a="E"><vh></vh>
 <v t="leo.20181104191426.3"><vh>01</vh></v>
-</v>
-<v t="leo.20181104191426.4" a="E"><vh></vh>
-<v t="leo.20181104191426.5"><vh>02</vh></v>
 </v>
 </v>
 <v t="leo.20181104190900.1"><vh>week14</vh>
 <v t="leo.20181104190900.2" a="E"><vh></vh>
 <v t="leo.20181104190900.3"><vh>01</vh></v>
 </v>
-<v t="leo.20181104190900.4" a="E"><vh></vh>
-<v t="leo.20181104190900.5"><vh>02</vh></v>
-</v>
 </v>
 <v t="leo.20181104190903.1"><vh>week15</vh>
 <v t="leo.20181104190903.2" a="E"><vh></vh>
 <v t="leo.20181104190903.3"><vh>01</vh></v>
 </v>
-<v t="leo.20181104190903.4" a="E"><vh></vh>
-<v t="leo.20181104190903.5"><vh>02</vh></v>
 </v>
-</v>
-<v t="leo.20181104190904.1"><vh>week16</vh>
+<v t="leo.20181104190904.1" a="E"><vh>week16</vh>
 <v t="leo.20181104190904.2" a="E"><vh></vh>
 <v t="leo.20181104190904.3"><vh>01</vh></v>
-</v>
-<v t="leo.20181104190904.4" a="E"><vh></vh>
-<v t="leo.20181104190904.5"><vh>02</vh></v>
 </v>
 </v>
 <v t="leo.20181104190907.1"><vh>week17</vh>
 <v t="leo.20181104190907.2" a="E"><vh></vh>
 <v t="leo.20181104190907.3"><vh>01</vh></v>
-</v>
-<v t="leo.20181104190907.4" a="E"><vh></vh>
-<v t="leo.20181104190907.5"><vh>02</vh></v>
 </v>
 </v>
 </v>
@@ -399,23 +378,10 @@ make.start()
 						
 </t>
 <t tx="leo.20181104190630.3"># week11
-</t>
-<t tx="leo.20181104190630.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
 
-
-
-						
-</t>
-<t tx="leo.20181104190630.5">本週進度
 1.被分配到"零件尺寸分析"
-2.更新分組網誌(修改期末分組網誌格式)
 
-</t>
+2.更新[分組網誌(修改期末分組網誌格式)](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g3_1/content/index.html)</t>
 <t tx="leo.20181104190856.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -433,20 +399,11 @@ make.start()
 						
 </t>
 <t tx="leo.20181104190856.3"># week12
-</t>
-<t tx="leo.20181104190856.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
 
+1.補上期中[Bubble rob 過程影片](https://www.youtube.com/watch?v=aLKu0PLFdl8)
 
+(期中報告只有結果，沒拍過程)
 
-						
-</t>
-<t tx="leo.20181104190856.5">本週進度
-1.補上期中Bubble rob 過程影片(期中報告只有結果，沒拍過程)
 2.更新分組網誌
 </t>
 <t tx="leo.20181104190900.1">&lt;section&gt;
@@ -466,20 +423,8 @@ make.start()
 						
 </t>
 <t tx="leo.20181104190900.3"># week14
-</t>
-<t tx="leo.20181104190900.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
 
-
-
-						
-</t>
-<t tx="leo.20181104190900.5">本週進度
-1.完成"桌腳四周加上圓弧"的細部設計
+1.完成[球檯圓桌設計](https://www.youtube.com/watch?v=Lnd2HEH--hc)
 
 </t>
 <t tx="leo.20181104190903.1">&lt;section&gt;
@@ -499,20 +444,10 @@ make.start()
 						
 </t>
 <t tx="leo.20181104190903.3"># week15
-</t>
-<t tx="leo.20181104190903.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+
+1.建立[期末個人倉儲](https://mdecadp2018.github.io/site-40623241/content/Experience.html)
 
 
-
-						
-</t>
-<t tx="leo.20181104190903.5">本週進度
-1.建立個人期末倉儲
 2.著手開始做期末pdf報告
 </t>
 <t tx="leo.20181104190904.1">&lt;section&gt;
@@ -532,20 +467,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181104190904.3"># week16
-</t>
-<t tx="leo.20181104190904.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
 
+1.完成分析[球員與彈簧間的距離](https://www.youtube.com/watch?v=RNMicDsQor0)
 
-
-						
-</t>
-<t tx="leo.20181104190904.5">本週進度
-1.完成分析"球員與彈簧間的距離"
 </t>
 <t tx="leo.20181104190907.1">&lt;section&gt;
 @others
@@ -564,23 +488,12 @@ make.start()
 						
 </t>
 <t tx="leo.20181104190907.3"># week17
-</t>
-<t tx="leo.20181104190907.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
 
-
-
-						
-</t>
-<t tx="leo.20181104190907.5">本週進度
 1.完成專案pdf
 
 自評分數
 65
+
 </t>
 <t tx="leo.20181104191426.1">&lt;section&gt;
 @others
@@ -599,20 +512,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181104191426.3"># week13
-</t>
-<t tx="leo.20181104191426.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
 
+1.完成[球員尺寸分析](https://www.youtube.com/watch?v=-6c_uwg_R7s)
 
-
-						
-</t>
-<t tx="leo.20181104191426.5">本週進度
-1.完成尺寸分析(球員)
 2.更新分組網誌(更新組員進度)
 </t>
 </tnodes>
