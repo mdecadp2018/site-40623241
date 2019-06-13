@@ -63,12 +63,12 @@
 <v t="leo.20181104190903.3"><vh>01</vh></v>
 </v>
 </v>
-<v t="leo.20181104190904.1" a="E"><vh>week16</vh>
+<v t="leo.20181104190904.1"><vh>week16</vh>
 <v t="leo.20181104190904.2" a="E"><vh></vh>
 <v t="leo.20181104190904.3"><vh>01</vh></v>
 </v>
 </v>
-<v t="leo.20181104190907.1"><vh>week17</vh>
+<v t="leo.20181104190907.1" a="E"><vh>week17</vh>
 <v t="leo.20181104190907.2" a="E"><vh></vh>
 <v t="leo.20181104190907.3"><vh>01</vh></v>
 </v>
@@ -489,7 +489,9 @@ make.start()
 </t>
 <t tx="leo.20181104190907.3"># week17
 
-1.完成專案pdf
+1.f
+[完成專案pd](https://mdecadp2018.github.io/site-40623241/downloads/report.pdf)
+
 
 自評分數
 65
