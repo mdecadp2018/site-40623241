@@ -489,7 +489,7 @@ make.start()
 </t>
 <t tx="leo.20181104190907.3"># week17
 
-1.f
+1.
 [完成專案pd](https://mdecadp2018.github.io/site-40623241/downloads/report.pdf)
 
 
