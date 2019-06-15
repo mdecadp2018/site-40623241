@@ -494,9 +494,18 @@ make.start()
 1.
 [完成專案pdf](https://mdecadp2018.github.io/site-40623241/downloads/report.pdf)
 
+學員出席 (20%) : 20 分
 
-自評分數
-65
+Github 倉儲管理 (20%) : 20 分
+
+Onshape 協同操作 (20%) : 20分
+
+V-rep 模擬 (20%) : 5分
+
+程式開發 (20%) : 0 分
+
+總分 : 65 分
+
 
 </t>
 <t tx="leo.20181104191426.1">&lt;section&gt;
